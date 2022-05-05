@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "witherite:witherite_item"
+    },
+    "result": "witherite:witherite_petals",
+    "experience": 1.5,
+    "cookingtime": 200
+}

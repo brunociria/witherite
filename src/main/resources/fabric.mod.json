@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "witherite",
+  "version": "${version}",
+
+  "name": "Witherite",
+  "description": "Witherite is a mod which allows you to modify netherite to make it lighter and hit faster but loose some damage.",
+  "authors": [
+    "Bruno Ciria"
+  ],
+  "contact": {
+    "homepage": "https://github.com/brunociria/witherite/",
+    "sources": "https://github.com/brunociria/witherite/"
+  },
+
+  "license": "GNU LGPLv3",
+  "icon": "assets/witherite/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.stinx.witherite.WitheriteMain"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.13.0",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  }
+}
