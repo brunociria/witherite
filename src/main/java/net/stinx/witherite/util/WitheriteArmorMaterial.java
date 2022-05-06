@@ -28,12 +28,12 @@ public class WitheriteArmorMaterial implements ArmorMaterial {
     /* enchantability */
     @Override
     public int getEnchantability() {
-        return 30   ;
+        return 30;
     }
     /* sound when equipped */
     @Override
     public SoundEvent getEquipSound() {
-        return SoundEvents.BLOCK_AMETHYST_BLOCK_PLACE;
+        return SoundEvents.BLOCK_AMETHYST_BLOCK_CHIME;
     }
     /* repair in anvil item */
     @Override
