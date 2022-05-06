@@ -8,4 +8,4 @@ Witherite is a mod which allows you to modify netherite to make it lighter and h
 
 ### License
 
-Witherite is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the [license file](https://github.com/brunociria/witherite/blob/master/LICENSE)..
+Witherite is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the [license file](https://github.com/brunociria/witherite/blob/master/LICENSE).
