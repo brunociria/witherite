@@ -2,7 +2,7 @@
 
 # Witherite
 
-Witherite is a mod which allows you to modify netherite to make it lighter and hit faster but loose some damage.
+Witherite is a mod which allows you to modify netherite to make it lighter and hit faster but lose some damage.
 
 ---
 
